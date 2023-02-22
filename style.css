@@ -1,0 +1,23 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+
+.card {
+max-width: 200px;
+margin: auto;
+text-align: center;}
+#main{
+background-image: url('Travel.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+}
+.price {
+color: blue;
+font-size: 18px;
+}
+.card button {
+padding:10px;
+color: white;
+background-color: green;
+text-align: center; }
